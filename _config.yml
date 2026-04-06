@@ -1,3 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Rahul Aditya | Turning Data into Insights
+description: Data & Business Analyst with hands-on freelance experience, helping businesses transform raw data into clear, actionable insights. Skilled in SQL, Excel, Python, and Power BI, with a focus on solving real-world problems and building dashboards that drive better decisions.
